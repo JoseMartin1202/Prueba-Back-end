@@ -1,4 +1,4 @@
 from django.contrib import admin
-from .models import Appname
+from .models import Tarea
 # Register your models here.
-admin.site.register(Appname)
+admin.site.register(Tarea)
